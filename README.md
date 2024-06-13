@@ -22,7 +22,9 @@
 ### Intelligent Ground Vehicles (IGV): Autonomous vehicles designed for the Intelligent Ground Vehicle Competition (IGVC).
 ### MR Robot: ModulaR Robot: An autonomous navigation robot capable of MOVING IN SPACES BY AVOIDING OBSTACLES . 
 ### [Autonomous Unmanned Aerial Vehicle](https://github.com/atomrobotics/IPAS-21) :  An autonomous navigation path planning for aeriel vehicles like drones
-### Other Projects: available in our github repo, [linkedin](https://www.linkedin.com/company/atomrobotics/) , [website](https://atomrobotics.github.io/robots.html) , [youtube](https://www.youtube.com/@atomrobotics2167) , [instagram](https://www.instagram.com/atomrobotics_vitc?igsh=OGl1eWRrYmZrcG5k) 
+### Other Projects: [Code_Snippets](https://github.com/atomrobotics/Code_Snippets)  the project includes path planning algorithms, 200+ bird species detection, object detection using imageai, number plate detection, segmentation, etc.,
+# OUR SOCIAL MEDIA PLATFORMS
+### [linkedin](https://www.linkedin.com/company/atomrobotics/) , [website](https://atomrobotics.github.io/robots.html) , [youtube](https://www.youtube.com/@atomrobotics2167) , [instagram](https://www.instagram.com/atomrobotics_vitc?igsh=OGl1eWRrYmZrcG5k) 
 
 # Technologies We Use 
 ## Our projects utilize a wide range of open-source technologies, including:
