@@ -45,10 +45,11 @@
 ### **Python/C++**: Primary programming languages for our software development. 
 ### **Easy Eda & Altium**: Tools for designing PCB'S
 
-# "Victory is always possible for the person who refuses to stop fighting." - **OUR VICTORIES**
+#  **OUR VICTORIES**
+
 ### Winner of Autonomous Line follower, CURRENTS'20 @ NIT Trichy.
 ### Winner of RoboZest, KURUKSHETRA'20 @ CEG, Anna University.
 ### Winner of Autonomous Line follower Vashisht 2019 @ IIITDM Kanchipuram.
 ### Winner of Autonomous Line follower PISTOBOLTZ'20 @ MIT, Chromepet.
 ### First runner up of Line follower @ Chennai International Youth Fest
-**MANY MORE VICTORIES**
+## **MANY MORE VICTORIES**
