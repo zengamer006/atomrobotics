@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋 we are ** "ATOMROBOTICS " **
+## Team of young ENGINEERING MINDS TO CREATE NEW ROBOTS THAT REVOLUTIONIZE THE TECH WORLD OF TOMORROW
+
+
 
 <!--
 **atomrobotics/atomrobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
