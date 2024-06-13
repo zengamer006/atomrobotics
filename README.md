@@ -1,4 +1,4 @@
-#   ATOM ROBOTICS - SPECIAL TEAM FOR ROBOTICS VIT CHENNAI 
+# "ATOM ROBOTICS" SPECIAL TEAM FOR ROBOTICS VIT CHENNAI 
 
 # Our Projects
  ### **❗❗ the names of the project are linked with a hyper-text that leads you to the project repositories❗❗**
