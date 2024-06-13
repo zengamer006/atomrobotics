@@ -8,9 +8,9 @@
 
 # Our Projects
  ## We work on a variety of projects involving cutting-edge robotics technologies. Some of our key projects include:
-## - 🚁 [DRONES](https://github.com/atomrobotics/EYANTRA-19)
+## - 🚁 [DRONES](https://github.com/atomrobotics/EYANTRA-19) , [ARDUINO SIMULATOR DRONE](https://github.com/JustTheCoolest/Atom_Arduino_Drone_Simulator)
 ## - ✈  [Airplane](https://github.com/atomrobotics/IPAS-21)
-## - 🏎 LINE FOLLOWERS 
+## - 🏎 LINE FOLLOWER [RO](https://github.com/JustTheCoolest/Atom-Rocinante-Line-Follower), [LINE FOLLOWER 
 ## - 🚘 RC wire-less terrain vehicle
 ## - 🚘 ROBOSOCCER
 ### Intelligent Ground Vehicles (IGV): Autonomous vehicles designed for the Intelligent Ground Vehicle Competition (IGVC).
