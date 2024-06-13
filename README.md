@@ -1,4 +1,4 @@
-# Hi there 👋 we are ** "ATOMROBOTICS " **
+# Hi there 👋 we are  "ATOMROBOTICS " 
 ## Team of young ENGINEERING MINDS TO CREATE NEW ROBOTS THAT REVOLUTIONIZE THE TECH WORLD OF TOMORROW
 
 
