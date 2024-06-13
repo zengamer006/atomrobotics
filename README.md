@@ -41,8 +41,9 @@
 
 ### **ROS & ROS 2**: Robot Operating System frameworks for building robot applications.
 ### **Gazebo**: A simulation tool for testing robot designs. 
-### **Fusion 360**: A comprehensive CAD tool for designing mechanical components. 
+### **Fusion 360,solidworks and Ansys**: A comprehensive CAD tool for designing mechanical components. 
 ### **Python/C++**: Primary programming languages for our software development. 
+### **Easy Eda & Altium**: Tools for designing PCB'S
 
 # "Victory is always possible for the person who refuses to stop fighting." - **OUR VICTORIES**
 ### Winner of Autonomous Line follower, CURRENTS'20 @ NIT Trichy.
