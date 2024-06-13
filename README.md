@@ -1,10 +1,6 @@
 # Hi there 👋 we are  **"ATOMROBOTICS"** 
-## Team of young ENGINEERING MINDS TO CREATE NEW ROBOTS THAT REVOLUTIONIZE THE TECH WORLD OF TOMORROW
 
 ### Welcome to the official GitHub repository of ATOM Robotics! We are a passionate SPECIAL TEAM  of VELLORE INSTITUTE OF TECHNOLOGY, chennai  our students dedicated to advancing robotics through innovative projects and participation in various events and competitions.
-
-# About Us
-### ATOM Robotics is based out of VIT'C . We are a diverse group of students from multiple fields of study, unified by our love for robotics and technology. Our mission is to design, develop, and deploy autonomous robots that can perform complex tasks and participate in SEVERAL competitions to bring victory to our TEAM & VIT.
 
 # Our Projects
  ## We work on a variety of projects involving cutting-edge robotics technologies. Some of our key projects include:
