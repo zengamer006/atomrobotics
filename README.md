@@ -9,11 +9,12 @@
 # Our Projects
  ## We work on a variety of projects involving cutting-edge robotics technologies. Some of our key projects include:
 ## - 🚁 DRONES
- ## - 🏎 LINE FOLLOWERS 
-
+## - 🏎 LINE FOLLOWERS 
+## - 🚘 RC wire-less terrain vehicle
+## - 🚘 ROBOSOCCER
 ### Intelligent Ground Vehicles (IGV): Autonomous vehicles designed for the Intelligent Ground Vehicle Competition (IGVC).
-MR Robot: ModulaR Robot: An autonomous navigation robot capable of MOVING IN SPACES BY AVOIDING OBSTACLES . 
-Other Projects: available in our github repo, [linkedin](https://www.linkedin.com/company/atomrobotics/)
+### MR Robot: ModulaR Robot: An autonomous navigation robot capable of MOVING IN SPACES BY AVOIDING OBSTACLES . 
+### Other Projects: available in our github repo, [linkedin](https://www.linkedin.com/company/atomrobotics/) , [website](https://atomrobotics.github.io/robots.html) , [youtube](https://www.youtube.com/@atomrobotics2167) , [instagram](https://www.instagram.com/atomrobotics_vitc?igsh=OGl1eWRrYmZrcG5k) 
 
 # Technologies We Use
 ## Our projects utilize a wide range of open-source technologies, including:
@@ -23,18 +24,10 @@ Other Projects: available in our github repo, [linkedin](https://www.linkedin.co
 ### **Fusion 360**: A comprehensive CAD tool for designing mechanical components. 
 ### **Python/C++**: Primary programming languages for our software development. 
 
-
-<!--
-**atomrobotics/atomrobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# "Victory is always possible for the person who refuses to stop fighting." - **OUR VICTORIES**
+### Winner of Autonomous Line follower, CURRENTS'20 @ NIT Trichy.
+### Winner of RoboZest, KURUKSHETRA'20 @ CEG, Anna University.
+### Winner of Autonomous Line follower Vashisht 2019 @ IIITDM Kanchipuram.
+### Winner of Autonomous Line follower PISTOBOLTZ'20 @ MIT, Chromepet.
+### First runner up of Line follower @ Chennai International Youth Fest
+**MANY MORE VICTORIES**
