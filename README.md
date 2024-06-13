@@ -3,7 +3,6 @@
 ### Welcome to the official GitHub repository of ATOM Robotics! We are a passionate SPECIAL TEAM  of VELLORE INSTITUTE OF TECHNOLOGY, chennai  our students dedicated to advancing robotics through innovative projects and participation in various events and competitions.
 
 # Our Projects
- ## We work on a variety of projects involving cutting-edge robotics technologies. Some of our key projects include:
  ### **❗❗ the names of the project are linked with a hyper-text that leads you to the project repositories❗❗**
  
 ## - 🚁 DRONES
