@@ -18,11 +18,10 @@ Other Projects: available in our github repo, [linkedin](https://www.linkedin.co
 # Technologies We Use
 ## Our projects utilize a wide range of open-source technologies, including:
 
-# **ROS & ROS 2**: Robot Operating System frameworks for building robot applications.
-# **Gazebo**: A simulation tool for testing robot designs. :(![image](https://github.com/zengamer006/atomrobotics/assets/145518874/e2e75b31-1fd7-4e5d-9e91-7b343b3f81d3)
-
-# **Fusion 360**: A comprehensive CAD tool for designing mechanical components. :(![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw1cF5NotLK1XKtEAV5AAaji&ust=1718343556931000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCM99zu14YDFQAAAAAdAAAAABAI)
-# **Python/C++**: Primary programming languages for our software development. :(![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw1cF5NotLK1XKtEAV5AAaji&ust=1718343556931000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCM99zu14YDFQAAAAAdAAAAABAI)
+### **ROS & ROS 2**: Robot Operating System frameworks for building robot applications.
+### **Gazebo**: A simulation tool for testing robot designs. 
+### **Fusion 360**: A comprehensive CAD tool for designing mechanical components. 
+### **Python/C++**: Primary programming languages for our software development. 
 
 
 <!--
