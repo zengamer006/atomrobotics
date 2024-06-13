@@ -12,7 +12,7 @@
 ### [EYANTRA-19](https://github.com/atomrobotics/EYANTRA-19) , PID based autonomous drone navigation " ROSpy based control system for a quadcopter to transverse  autonomously"
 ### [ARDUINO SIMULATOR FOR DRONE](https://github.com/JustTheCoolest/Atom_Arduino_Drone_Simulator) ,  simulates the programming environment for what would be the drone's onboard computer
 ## - ✈ Airplane
-### [IPAS-21](https://github.com/atomrobotics/IPAS-21), 
+### [IPAS-21](https://github.com/atomrobotics/IPAS-21) , The project was developed for "International Planetary Aerial Systems" Challenge
 ## - 🏎 LINE FOLLOWER
 ### [ROCINATE](https://github.com/JustTheCoolest/Atom-Rocinante-Line-Follower) , AWARD WINNING ROBOT TechnoXian World Robotics Championship
 ### [QUARKS-V1](https://github.com/atomroboticsvitc/line_follower_quarks_v1) , robot based on the Arduino Nano greyrobotics lfs-6 IR sensor array DRV8833 motor driver N20 dc motors AMS1117 3.3v voltage regulator
