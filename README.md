@@ -8,6 +8,7 @@
 
 # Our Projects
  ## We work on a variety of projects involving cutting-edge robotics technologies. Some of our key projects include:
+ ### **❗❗ the names of the project are linked with a hyper-text that leads you to the project repositories❗❗**
  
 ## - 🚁 DRONES
 #### [EYANTRA-19](https://github.com/atomrobotics/EYANTRA-19) , PID based autonomous drone navigation " ROSpy based control system for a quadcopter to transverse  autonomously"
